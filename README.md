@@ -43,17 +43,16 @@ To run this program, you will need the following:
 
 Once the script is executed, it will show the WiFi profiles on your screen like this:
 
-```
-WiFi Profile: MyHomeWiFi
-SSID: MyHomeWiFi
-Security Type: WPA2-Personal
-Password: mypassword123
+Wi-Fi Passwords
 
-WiFi Profile: OfficeWiFi
-SSID: OfficeWiFi
-Security Type: WPA3-Personal
-Password: officepassword321
-```
++------------------+-------------------+----------------+
+| Security Type   | SSID              | Password      |
++------------------+-------------------+----------------+
+| WPA2-Personal   | MyHomeWiFi        | mypassword123 |
+| WPA3-Personal   | OfficeWiFi        | officepassword321 |
+| WPA2-Personal   | GuestNetwork      | guestpass567  |
++------------------+-------------------+----------------+
+
 
 ## Notes
 - This script only works on Windows.
