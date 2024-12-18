@@ -19,7 +19,7 @@ To run this program, you will need the following:
 ## Installation
 
 1. **Download the Python Script**:
-   Download the `wifi_password.py` file from this repository.
+   Download the `wifi_passwords.py` file from this repository.
 
 2. **Install Python** (if you haven't already):
    You can download Python from [here](https://www.python.org/downloads/).
@@ -30,10 +30,10 @@ To run this program, you will need the following:
 ## Usage
 
 1. **Run the Script**:
-   Open a terminal or command prompt in the folder where you downloaded `wifi_profile_generator.py`. Run the script with the following command:
+   Open a terminal or command prompt in the folder where you downloaded `wifi_password.py`. Run the script with the following command:
    
    ```bash
-   python wifi_profile_generator.py
+   python wifi_password.py
    ```
 
 2. **How it Works**:
