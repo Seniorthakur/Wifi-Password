@@ -1,5 +1,5 @@
 
-
+---
 ---
 
 # WiFi Profile Generator
@@ -45,6 +45,9 @@ Once the script is executed, it will show the WiFi profiles on your screen like 
 
 Wi-Fi Passwords
 
+```
+Wi-Fi Passwords
+
 +------------------+-------------------+----------------+
 | Security Type   | SSID              | Password      |
 +------------------+-------------------+----------------+
@@ -52,7 +55,7 @@ Wi-Fi Passwords
 | WPA3-Personal   | OfficeWiFi        | officepassword321 |
 | WPA2-Personal   | GuestNetwork      | guestpass567  |
 +------------------+-------------------+----------------+
-
+```
 
 ## Notes
 - This script only works on Windows.
